@@ -125,7 +125,7 @@ print(response.json())
 ## 📁 Structure du projet
 
 ```
-fast-ocr/
+fastapi-images-ocr/
 ├── main.py              # Application FastAPI principale
 ├── requirements.txt     # Dépendances Python
 └── README.md           # Documentation
@@ -156,12 +156,6 @@ fast-ocr/
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou une pull request.
-
-## 📄 Licence
-
-Ce projet est sous licence MIT.
-
----
 
 **Développé avec ❤️ en utilisant FastAPI et Tesseract OCR**
 
